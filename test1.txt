@@ -1,3 +1,5 @@
 This file is for test of Git and GitHub.
 
 The sentence is added for modify test.
+
+新しいテスト(2018/7/29)
